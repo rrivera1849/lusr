@@ -1,2 +1,2 @@
-# LUSR
-Unsupervised Learning of Style Representations
+# Unsupervised Learning of Style Representations
+Code coming soon!
