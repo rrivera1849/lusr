@@ -6,3 +6,5 @@ If you're a reviewer, the code was provided as supplemental material with the su
 ## Model Checkpoints
 
 The LUSR model is available at [Huggingface](https://huggingface.co/rrivera1849/LUSR).
+
+You can read the preprint [here](https://arxiv.org/abs/2505.14608).
